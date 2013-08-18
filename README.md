@@ -1,7 +1,4 @@
 MachacaImagenes
 ===============
-asdfasdfasdf
-asdfasdfasdf
-asdfasdfasdf
-asdfasdfasdf
-asdfasdfasdf
+Edición del readme desde Github.<br>
+Esto mola XD
